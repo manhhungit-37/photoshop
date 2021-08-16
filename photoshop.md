@@ -1,0 +1,11 @@
+- Thiết lập đơn vị px: Preferences --> Unit and Ruler --> px
+- Mở Ruler: `ctrl/command + R`
+- Ẩn hiện ruler màu xanh cyan: `ctrl/command + ;`
+- Lấy mã màu: Eyedropper tool
+- Xem kích thước: Marquee tool (M)
+- Xem thông tin của chuwx: chữ T
+- Show thông tin character: Window --> character
+- Công cụ chọn: Move Tool (V)
+- Ảnh : Giữ phím:  `alt/option` + click vào icon mắt của layer --> Image --> Trim --> ctrl/command + alt/option + shift + s
+- Ảnh PNG: Chuột phải vào layer và chọn `Quick export as PNG`
+- Quay về hình ban đầu: Window -> History -> Chọn layer trên cùng
